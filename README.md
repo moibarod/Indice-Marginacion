@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Proyecto Análisis de Datos de Marginación
 
 You can use the [editor on GitHub](https://github.com/moibarod/PManuel_Ibarra/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
